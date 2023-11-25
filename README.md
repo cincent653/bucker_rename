@@ -73,17 +73,17 @@ broadcast - Send Message To All Users (Admin Only)
 
 ## ❣️Thanks To
 
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/amnotluffy">
    <p> lntechnical TG</p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://t.me/AnimeChidori">
    <p> lntechnical YT </p>
   </a>
 
 ## 🤩 INSPIRATION
 
-<a href="https://youtube.com/c/MoTech_YT">
-   <p>❣️ MoTech 🔥</p>
+<a href="https://t.me/Anime_Chidori">
+   <p>❣️ ANIME CHIDORI 🔥</p>
   </a>
 
 
